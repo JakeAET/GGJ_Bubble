@@ -1,0 +1,543 @@
+fileFormatVersion: 2
+guid: 685267dd2e7b84bcb98da1ff48eadd11
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BubbleBoySpriteSheetColor_0
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1725
+        width: 442
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1447953dab7744c9c9a57562e7a9251b
+      internalID: 404404949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleBoySpriteSheetColor_1
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1725
+        width: 446
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32545acbb5f1e41888169e5b02084cfd
+      internalID: -2009527372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleBoySpriteSheetColor_2
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 2049
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcf5fe031ce349398fdbf0a5ec43df0
+      internalID: -1715512684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleBoySpriteSheetColor_3
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1708
+        width: 505
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394229765979e4f208b126e53548754f
+      internalID: -1871217311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleBoySpriteSheetColor_4
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1667
+        width: 554
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655cac7fcff794d2286d6bb8c458e822
+      internalID: -1104044524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleBoySpriteSheetColor_5
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 1668
+        width: 553
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c642bb5b9492473c883057a875b6b13
+      internalID: -1987392662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleBoySpriteSheetColor_6
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 2031
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f06c30f3ecf4fb3863c935987a5a1a
+      internalID: -315683437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleBoySpriteSheetColor_7
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 1665
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbb34b41fb0641c2a6034cb52739d74
+      internalID: 1084671893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleBoySpriteSheetColor_8
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 1665
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db3bf8a255f94054957eb7578d23970
+      internalID: 101435141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleBoySpriteSheetColor_9
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 1666
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0943ddd977304ae69074bb264126aa5
+      internalID: -1778489257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleBoySpriteSheetColor_10
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 1665
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555d86d659cb74dcbb35973e6f6d7764
+      internalID: 1905880565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleBoySpriteSheetColor_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 916
+        width: 444
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bba1f9a101d54ceabc16fabb5a57ad6
+      internalID: 530300429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleBoySpriteSheetColor_12
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 925
+        width: 441
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d928a97bfebc437fab54265e3023aa5
+      internalID: 2114278835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleBoySpriteSheetColor_13
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 934
+        width: 458
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca3fe838abd247d6ac57d49b5faaaeb
+      internalID: 1988044981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleBoySpriteSheetColor_14
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 927
+        width: 442
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffbf8de2a5514864910891a5495d134
+      internalID: 1173923679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleBoySpriteSheetColor_15
+      rect:
+        serializedVersion: 2
+        x: 2629
+        y: 939
+        width: 443
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eabb56b3587542239082231f7bb625c
+      internalID: 1686488125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleBoySpriteSheetColor_16
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 181
+        width: 442
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40e5c270296a4618b60f8378b9197fb
+      internalID: 102698390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleBoySpriteSheetColor_17
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 196
+        width: 463
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226b2b6d487254cd09a68d87f4ff59a2
+      internalID: -407452047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BubbleBoySpriteSheetColor_0: 404404949
+      BubbleBoySpriteSheetColor_1: -2009527372
+      BubbleBoySpriteSheetColor_10: 1905880565
+      BubbleBoySpriteSheetColor_11: 530300429
+      BubbleBoySpriteSheetColor_12: 2114278835
+      BubbleBoySpriteSheetColor_13: 1988044981
+      BubbleBoySpriteSheetColor_14: 1173923679
+      BubbleBoySpriteSheetColor_15: 1686488125
+      BubbleBoySpriteSheetColor_16: 102698390
+      BubbleBoySpriteSheetColor_17: -407452047
+      BubbleBoySpriteSheetColor_2: -1715512684
+      BubbleBoySpriteSheetColor_3: -1871217311
+      BubbleBoySpriteSheetColor_4: -1104044524
+      BubbleBoySpriteSheetColor_5: -1987392662
+      BubbleBoySpriteSheetColor_6: -315683437
+      BubbleBoySpriteSheetColor_7: 1084671893
+      BubbleBoySpriteSheetColor_8: 101435141
+      BubbleBoySpriteSheetColor_9: -1778489257
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
